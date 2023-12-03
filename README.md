@@ -1,4 +1,4 @@
-# quest-o-8
+# question-8
 
 import java.util.Scanner;
 
